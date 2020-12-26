@@ -83,7 +83,7 @@
     height:210px;
     border-style: solid;
     border-width: 2px;
-    border-right-width: 0px;
+    
     
 }
 #hours {
@@ -151,4 +151,15 @@
     display: flex;
     justify-content: center;
     
+}
+.control {
+    margin-top: -20px;
+}
+.navbar-home {
+   display: flex;
+   justify-content: end;  
+}
+
+#brand {
+   
 }
